@@ -3,6 +3,8 @@
 #include <cassert>
 using namespace std;
 
+//jess wuz here
+
 Card::Card(Suit s, Rank r){
 	suit_ = s;
 	rank_ = r;
